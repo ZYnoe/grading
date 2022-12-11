@@ -16,4 +16,4 @@ LabReport = float(LabReport)
 
 FinalGrade = (MidtermRawGrade * 0.25) + (FinalRawGrade * 0.35) + (HomeworkRawGrade * 0.15) + (LabReport * 0.25)
 
-print("Your final grade is: ", FinalGrade)
+print("Your Composited grade is: ", FinalGrade)
